@@ -1,5 +1,6 @@
 ## Olá, eu sou o Henrique Santos
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=million212&theme=gruvbox_light&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=million212&layout=compact&theme=gruvbox_light&show)
 ##
 
 <div style="display: inline_block"><br>
